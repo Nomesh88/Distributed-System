@@ -1,0 +1,76 @@
+2023-04-06 01:23:16 Server for ATW started
+2023-04-06 01:23:45 Server for ATW started
+2023-04-06 01:24:18 Server for ATW started
+2023-04-06 01:24:57 Server for ATW started
+2023-04-06 01:26:15 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:26:15 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:26:15 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:26:15 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:28:32 Server borrow Movie [VERM130423] for user [ATWC1234] from server [VER] success
+2023-04-06 01:28:32 Server borrow Movie [VERM130423] for user [ATWC1234] from server [VER] success
+2023-04-06 01:28:32 Server borrow Movie [VERM130423] for user [ATWC1234] from server [VER] success
+2023-04-06 01:28:32 Server borrow Movie [VERM130423] for user [ATWC1234] from server [VER] success
+2023-04-06 01:32:14Manager [ATWA1234] add [10] of Movie [ATWM170423] success
+2023-04-06 01:32:14Manager [ATWA1234] add [10] of Movie [ATWM170423] success
+2023-04-06 01:32:14Manager [ATWA1234] add [10] of Movie [ATWM170423] success
+2023-04-06 01:35:41 Server for ATW started
+2023-04-06 01:36:53 Server for ATW started
+2023-04-06 01:37:21 Server for ATW started
+2023-04-06 01:37:51 Server for ATW started
+2023-04-06 01:39:25 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 20   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:39:25 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 20   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:39:25 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 20   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:44:34 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:44:34 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:44:34 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:44:34 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:45:40 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:45:40 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:45:40 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:46:02 Server for ATW started
+2023-04-06 01:46:39 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 13   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:46:39 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 13   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:46:39 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 13   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:48:09 Server for ATW started
+2023-04-06 01:49:23 Server for ATW started
+2023-04-06 01:49:57 Server for ATW started
+2023-04-06 01:50:30 Server for ATW started
+2023-04-06 01:52:18 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:52:18 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:52:18 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:52:56 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:52:56 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:52:56 User [ATWC1111] book Movie [ATWM130423] success.
+2023-04-06 01:53:21 Server for ATW started
+2023-04-06 01:54:04 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:54:04 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:54:04 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:54:04 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 01:54:57 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:54:57 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:54:57 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:55:37 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:55:37 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:55:37 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:57:05 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:57:05 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 01:57:05 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:00:24 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:00:24 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:00:24 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:02:38 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:02:38 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:02:38 Manager [ATWA1111] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 11   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:03:19 User [ATWC1111] book Movie [ATWM140423] success.
+2023-04-06 02:03:19 User [ATWC1111] book Movie [ATWM140423] success.
+2023-04-06 02:03:19 User [ATWC1111] book Movie [ATWM140423] success.
+2023-04-06 02:04:14 Server for ATW started
+2023-04-06 02:04:46 Server for ATW started
+2023-04-06 02:05:17 Server for ATW started
+2023-04-06 02:05:51 Server for ATW started
+2023-04-06 02:06:52 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 02:06:52 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 02:06:52 User [ATWC1234] book Movie [ATWM130423] success.
+2023-04-06 02:07:44 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 14   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:07:44 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 14   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
+2023-04-06 02:07:44 Manager [ATWA1234] list all of Movie success. All Movies:   ATWM140423 Avatar 20  ATWM130423 Avatar 14   VERM130423 Avatar 20  VERM140423 Avatar 20   OUTM140423 Avatar 20  OUTM130423 Avatar 20
